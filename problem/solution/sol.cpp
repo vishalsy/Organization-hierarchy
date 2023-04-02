@@ -77,7 +77,7 @@ int main() {
     for (int i = 0; i <= number_of_nodes; i++) {
         cin >> parent[i];
     }
-    //	input test case
+    // this is the test case
     // 11
     // 10
     // 2
